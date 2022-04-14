@@ -1,0 +1,37 @@
+package ex;
+
+class µ¿¹° {
+	
+}
+
+class Á¶·ù extends µ¿¹° {
+	
+}
+
+class Æë±Ï extends Á¶·ù {
+	
+}
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		µ¿¹° µ¿¹°°´Ã¼ = new µ¿¹°();
+		Á¶·ù Á¶·ù°´Ã¼ = new Á¶·ù();
+		Æë±Ï Æë±Ï°´Ã¼ = new Æë±Ï();
+		
+		System.out.println(µ¿¹°°´Ã¼ instanceof µ¿¹°);
+		
+		System.out.println(--------------------);
+		
+		System.out.println(Á¶·ù°´Ã¼ instanceof µ¿¹°);
+		System.out.println(Á¶·ù°´Ã¼ instanceof Á¶·ù);
+		
+		System.out.println(--------------------);
+		
+		System.out.println(Æë±Ï°´Ã¼ instanceof µ¿¹°);
+		System.out.println(Æë±Ï°´Ã¼ instanceof Á¶·ù);
+		System.out.println(Æë±Ï°´Ã¼ instanceof Æë±Ï);
+	}
+
+}

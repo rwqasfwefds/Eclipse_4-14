@@ -1,0 +1,8 @@
+package ex2;
+
+public class Parent {
+	private int x = 100;
+	private int y = 200;
+	
+	
+}

@@ -1,0 +1,10 @@
+package ex;
+
+public class Point {
+	public int x, y; // ÁÂÇ¥ ÀúÀå
+	
+	public Point() {
+		this.x = 0;
+		this.y = 0;
+	}
+}

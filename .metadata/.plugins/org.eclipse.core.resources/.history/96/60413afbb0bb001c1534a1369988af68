@@ -1,0 +1,16 @@
+package ex2;
+
+public class Employee {
+	public int no;
+	public String name;
+	
+	Employee() {}
+	
+	Employee(int no, String name){
+		this.no = no;
+		this.name = name;
+	}
+	public void showPoint() {
+		System.out.println("Employee() ½ÇÇà");
+	}
+}

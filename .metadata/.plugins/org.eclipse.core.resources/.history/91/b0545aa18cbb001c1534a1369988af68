@@ -1,0 +1,9 @@
+package ex;
+
+public class OverRidingTest {
+	
+	public static void main(String[] args) {
+//		Weapon 클래스의 인스턴스(객체) 만들기
+		Weapon weapon = new Weapon();
+	}
+}

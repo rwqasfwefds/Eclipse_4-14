@@ -1,0 +1,11 @@
+package ex2;
+
+public class Salesman extends Employee{
+	public int record;
+	
+//	기본 생성자
+	public Salesman() {
+//		1) Employee() 실행 : 출력
+//		2) Salesman() 실행 : 출력
+	}
+}

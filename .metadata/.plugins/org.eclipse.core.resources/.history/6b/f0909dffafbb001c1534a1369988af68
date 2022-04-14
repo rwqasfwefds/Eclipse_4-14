@@ -1,0 +1,13 @@
+package ex2;
+
+public class Employee {
+	int no;
+	String name;
+	
+	Employee() {}
+	
+	Employee(int no, String name){
+		this.no = no;
+		this.name = name;
+	}
+}

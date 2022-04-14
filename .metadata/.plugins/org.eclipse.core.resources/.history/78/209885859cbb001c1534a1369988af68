@@ -1,0 +1,10 @@
+package ex;
+
+public class ColorPoint extends Point {
+	public String color;
+	
+//	ColorPoint 생성자 : 매개변수가 3개인 생성자
+	public ColorPoint(int x, int y, String color) {
+		
+	}
+}

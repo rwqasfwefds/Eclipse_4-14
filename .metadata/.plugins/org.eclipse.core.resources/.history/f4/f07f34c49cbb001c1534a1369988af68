@@ -1,0 +1,12 @@
+package ex;
+
+public class ColorPoint extends Point {
+	public String color; // 색상 정보 맴버 변수
+	
+//	ColorPoint 생성자 : 매개변수가 3개인 생성자
+//	생성자 목적 : 맴버 변수 초기화
+	public ColorPoint(int x, int y, String color) {
+		super();
+		this.color = color;
+	}
+}

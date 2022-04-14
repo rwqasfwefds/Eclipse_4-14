@@ -1,0 +1,11 @@
+package ex2;
+
+public class Child extends Parent {
+	private int r = 300;
+	
+	public void dislpay() {
+		System.out.println(getX());
+		System.out.println(getY());
+		System.out.println("r = " + this.r);
+	}
+}

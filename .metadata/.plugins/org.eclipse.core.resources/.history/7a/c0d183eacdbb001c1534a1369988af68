@@ -1,0 +1,15 @@
+package ex2;
+
+public class InstanceOfTest {
+
+	public static void testAllPhone(Phone p) {
+		p.call();
+		p.sms();
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

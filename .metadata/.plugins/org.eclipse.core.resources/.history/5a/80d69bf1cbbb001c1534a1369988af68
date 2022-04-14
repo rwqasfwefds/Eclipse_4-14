@@ -1,0 +1,22 @@
+package ex;
+
+class µ¿¹° {
+	
+}
+
+class Á¶·ù extends µ¿¹° {
+	
+}
+
+class Æë±Ï extends Á¶·ù {
+	
+}
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

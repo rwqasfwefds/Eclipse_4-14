@@ -1,0 +1,9 @@
+package ex;
+
+public class Cannon extends Weapon{
+//	오버라이딩 대상 메소드위에 오버라이딩 되었다 라는 표시로 @Override를 적어줌
+	@Override
+	public int fire() {
+		return 10; // 대포는 한 번에 10명 죽임
+	}
+}
